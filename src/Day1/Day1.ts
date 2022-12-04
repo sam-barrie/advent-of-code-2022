@@ -1,4 +1,4 @@
-import {day1input} from "./data";
+import {day1input} from "./Day1Data";
 
 export const Day1 = () => {
   const sums = day1input.split("\n\n")
